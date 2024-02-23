@@ -1,0 +1,26 @@
+express
+ejs
+bcrypt
+express-flash
+express-session
+method-override
+passport 
+passport-local
+
+<!-- REGISTER
+    <% if (messages.error) { %>
+    <div class="alert alert-danger">
+        <strong><%= messages.error %> </strong>
+    </div>
+    <% } %>  
+-->
+
+<!-- 
+    <% if (messages.error) { %>
+    <div class="alert alert-danger">
+        <strong><%= messages.error %> </strong>
+    </div>
+    <% } %>  
+-->
+
+<!--<%= name %>-->
